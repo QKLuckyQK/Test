@@ -14,7 +14,7 @@ body {
 }
 
 .aside {
-    background: #1e2939;
+    background: linear-gradient(to bottom, #336699 0%, #000066 99%);
     margin: 0px;
     padding: 0px;
 }
@@ -37,7 +37,7 @@ body {
 
 .photo {
     width: 370px;
-    margin-top: 25px;
+    margin-top: 50px;
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 0;
